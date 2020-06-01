@@ -1,4 +1,5 @@
 body {
+  background-color: rgb(208, 219, 219);
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
@@ -10,4 +11,25 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+button {
+  margin-bottom: 2rem;
+  margin-left: auto;
+}
+.container{
+  display: grid;
+
+  
+}
+.ele{
+  border:1px outset rgb(155, 150, 150);
+  padding:10px;
+  margin-bottom: 2rem;
+  
+}
+
+img{
+  margin-left: 1rem;
+  margin-bottom: 1rem;
 }
